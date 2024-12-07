@@ -1,0 +1,9 @@
+flask
+langchain
+transformers
+pdf2image
+PyPDF2
+pytesseract
+faiss-cpu
+tiktoken
+chromadb
