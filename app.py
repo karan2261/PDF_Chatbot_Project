@@ -29,10 +29,7 @@ with open('Procfile', 'w') as f:
 # Setting up the Environment
 """
 
-!pip install pytesseract
-!sudo apt install tesseract-ocr
-!pip install pdf2image
-!pip install PyPDF2
+
 
 import pytesseract
 from PIL import Image
@@ -109,7 +106,6 @@ def interactive_chatbot():
     else:
         print("No PDF file uploaded!")
 
-!apt-get install -y poppler-utils
 
 """# Running the Chatbot"""
 
