@@ -135,6 +135,3 @@ The core of the project is the interactive chatbot interface. Users can:
 # Conclusion:
 - In conclusion, this project successfully demonstrates the power of large language models (LLMs) in creating an interactive chatbot that answers questions from PDF documents. By combining text extraction, OCR, and question-answering techniques, it offers a user-friendly experience without requiring technical expertise. The project also lays a strong foundation for future improvements, showcasing how scalable and adaptable LLMs can be for document understanding and more complex applications. Overall, it highlights the practical potential of LLMs in solving real-world problems.
 """
-
-!jupyter nbconvert --to script Panchal_1226051_Project 2.ipynb
-
