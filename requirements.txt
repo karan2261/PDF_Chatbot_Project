@@ -1,6 +1,7 @@
 tensorflow
 flask
 langchain
+langchain-community
 transformers
 pdf2image
 PyPDF2
