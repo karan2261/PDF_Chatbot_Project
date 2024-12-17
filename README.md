@@ -21,6 +21,6 @@ This project is an interactive chatbot application powered by a large language m
 
 
 ## **Work Flow**
--Upload a PDF document.
--Ask questions about its content in natural language.
--Receive precise answers based on the document's context.
+- Upload a PDF document.
+- Ask questions about its content in natural language.
+- Receive precise answers based on the document's context.
